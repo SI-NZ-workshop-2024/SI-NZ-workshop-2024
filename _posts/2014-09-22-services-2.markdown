@@ -15,4 +15,5 @@ description: |
   
   * [**Amjed Tahir**](https://sites.google.com/site/amjedtahir) <br> Massey University, Palmerston North, New Zealand
   
+  * [**Jens Dietrich**](https://people.wgtn.ac.nz/jens.dietrich) <br> Victoria University of Wellington, Wellington, New Zealand
   
