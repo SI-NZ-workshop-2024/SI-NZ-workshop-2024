@@ -8,7 +8,7 @@ description: |
 The registration is opened to every software engineering researchers at any level (postgraduate students, researchers, and faculty) and to any industry.
 <br>
 <br>
-**Registration is now open!**: <br> <br> <a href="https://www.eventbrite.co.nz/e/the-1st-sinz-international-workshop-on-software-engineering-tickets-583996317707" class="btn btn-warning btn-lg">REGISTER NOW!</a>
+**Registration is now open!**: <br> <br> <a href="https://www.eventbrite.co.nz/e/the-1st-sinz-international-workshop-on-software-engineering-tickets-583996317707" class="btn btn-warning btn-lg">REGISTER</a>
 <br>
 <br>
 **Price:**
