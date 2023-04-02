@@ -1,0 +1,27 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Sponsors
+description: |
+---
+
+### Platinum
+
+[<img src="../img/uoa.png">](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
+<br>
+<br>
+
+### Gold
+
+[<img src="../img/uc.png">](https://www.canterbury.ac.nz/)
+<br>
+<br>
+[<img src="../img/massey.png">](https://www.massey.ac.nz/about/colleges-schools-and-institutes/college-of-sciences/school-of-mathematical-and-computational-sciences/)<br>
+<span style="color:#0a4f8f">School of Mathematical and Computational Sciences</span>.
+<br>
+<br>
+
+### Silver
+
+[<img src="../img/raygun.png">](https://raygun.com/)

@@ -2,17 +2,29 @@
 layout: default
 img: dog.png
 category: Services
-title: Committee Members
+title: Organizers
 description: |
 ---
-  **Organizers**
 
-  * [**Valerio Terragni**](https://valerio-terragni.github.io/) <br> University of Auckland, Auckland, New Zealand
-  
-  * [**Kelly Blincoe**](https://kblincoe.github.io/) <br> University of Auckland, Auckland, New Zealand
-  
-  * [**Fabian Gilson**](https://fabgilson.github.io/) <br> University of Canterbury, Christchurch, New Zealand
-  
-  * [**Amjed Tahir**](https://sites.google.com/site/amjedtahir) <br> Massey University, Palmerston North, New Zealand
-  
-  
+![avatar](https://images.weserv.nl/?url=https://valerio-terragni.github.io/assets/img/prof_pic.jpg?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Valerio Terragni**](https://valerio-terragni.github.io/) <br> University of Auckland, Auckland, New Zealand
+<br>
+<br>
+
+![avatar](https://images.weserv.nl/?url=https://profiles.auckland.ac.nz/k-blincoe/photo?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Kelly Blincoe**](https://kblincoe.github.io/) <br> University of Auckland, Auckland, New Zealand
+<br>
+<br>
+
+![avatar](https://images.weserv.nl/?url=https://www.canterbury.ac.nz/engineering/contact-us/people/1670355171553_Fabian-Gilson-low.jpg?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Fabian Gilson**](https://fabgilson.github.io/) <br> University of Canterbury, Christchurch, New Zealand
+<br>
+<br>
+
+![avatar](https://images.weserv.nl/?url=https://conf.researchr.org/getProfileImage/amjedtahir/8de3cc3f-2d29-425d-b997-399d3e03747d/small.jpg?1619089774000?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Amjed Tahir**](https://sites.google.com/site/amjedtahir) <br> Massey University, Palmerston North, New Zealand
+<br>
+<br>
+
+![avatar](https://images.weserv.nl/?url=https://people.wgtn.ac.nz/jens.dietrich/photo?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Jens Dietrich**](https://people.wgtn.ac.nz/jens.dietrich/professional) <br> Victoria University of Wellington, Wellington, New Zealand
