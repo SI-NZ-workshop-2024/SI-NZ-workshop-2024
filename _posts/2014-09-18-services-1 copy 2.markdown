@@ -4,7 +4,6 @@ category: Services
 title: Program and Registration<br>
 description: |
 ---
-<<<<<<< HEAD
 
 The registration is opened to every software engineering researchers at any level (postgraduate students, researchers, and faculty) and to any industry.
 <br>
@@ -20,13 +19,7 @@ NZD$ 150.00
 <br>
 NZD$ 60.00 (for students)
 <br>
-=======
-The workshop welcomes every software engineering researchers at any level (undergraduate and postgraduate students, researchers, and faculty). Details to come regarding the registration process and cost.
-<br>
-<br>
-Please fill the RSVP so we know how many people will attend. Registrations will open in March. If you need a formal invitation letter please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
->>>>>>> a4740508a1118b41ec1de41a87980d0833b369f4
-
+If you need a formal invitation letter please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
 <br>
 <br>
 
@@ -66,7 +59,7 @@ COMING SOON! <br>
 **Title:** Future Challenges in Software Testing
 
 **Abstract:** Software is dramatically changing. Current and future software systems rapidly evolve, adapt to new and emerging environment conditions, and behave autonomously. The fast growth of systems with AI and machine learning engines will spread across many domains, and be a common feature of most software systems. Classic testing cannot adequately address evolving, adapting, autonomous behavior of contemporary and future software systems. At the same time to recent extraordinary progresses in machine learning and natural language processing open enormous opportunities to define new testing approaches.
-<br> 
+<br>
 In this talk, I will discuss the challenges of testing future software systems, the opportunities of machine learning and natural language processing to define new testing approaches, and the role of testing in self-healing systems. I will discuss advantages, limitations, and benefits of combining classic with field testing in a seamlessly integrated context, I will present the state of the art in exploiting machine learning and natural language processing to test future software systems, and I will discuss the interplay of fully automated testing and self-healing approaches.
 
 **Bio:** Mauro Pezzè is Professor of Software Engineering at USI Università della Svizzera Italiana and Constructor institute in Schaffhausen (Switzerland). He leads the joint USI-Constructor STAR, Software Testing and Analysis Research, laboratory. Dr. Pezzè serves as editor in chief of ACM Transactions on Software Engineering and Methodologies. He served as associate editor of IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering and Methodologies, and the journal on Software Testing, Verification and Reliability (STVR). He served as general and program chair of the ACM International Symposium on Software Testing and Analysis (ISSTA), and program co-chair of the International Conference on Software Engineering (ICSE). He is the co-author of over 180 papers published in international journals and in the proceedings of international conferences, and of the influential book, Software Testing and Analysis, Process, Principles and Techniques.
