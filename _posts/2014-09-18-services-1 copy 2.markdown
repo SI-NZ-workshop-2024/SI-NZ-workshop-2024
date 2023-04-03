@@ -17,9 +17,9 @@ The registration is opened to everyone.
 NZD$ 150.00
 <br>
 <br>
-NZD$ 60.00  (student fee)
+NZD$ 60.00 (student fee)
 <br>
-Registration includes reception and lunch on May 22 and social event on May 23.
+Registration includes reception (drinks and canapes) and lunch on May 22 and social event on May 23 (TBA).
 <br>
 Registration closes on May 14 2023.
 <br>
