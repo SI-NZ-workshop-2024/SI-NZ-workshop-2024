@@ -5,7 +5,7 @@ title: Program and Registration<br>
 description: |
 ---
 
-The registration is opened to every software engineering researchers at any level (postgraduate students, researchers, and faculty) and to any industry.
+The registration is opened to everyone.
 <br>
 <br>
 **Registration is now open!**: <br> <br> <a href="https://www.eventbrite.co.nz/e/the-1st-sinz-international-workshop-on-software-engineering-tickets-583996317707" class="btn btn-warning btn-lg">REGISTER</a>
@@ -17,7 +17,11 @@ The registration is opened to every software engineering researchers at any leve
 NZD$ 150.00
 <br>
 <br>
-NZD$ 60.00 (for students)
+NZD$ 60.00  (student fee)
+<br>
+Registration includes reception and lunch on May 22 and social event on May 23.
+<br>
+Registration closes on May 14 2023.
 <br>
 If you need a formal invitation letter please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
 <br>
