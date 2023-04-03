@@ -26,7 +26,7 @@ Registration includes reception (drinks and canapes) and lunch on May 22 and soc
 Registration closes on May 14 2023.
 <br>
 <br>
-If you need a formal invitation letter please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
+If you need a formal invitation letter (for example, for visa purposes) please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
 <br>
 <br>
 
