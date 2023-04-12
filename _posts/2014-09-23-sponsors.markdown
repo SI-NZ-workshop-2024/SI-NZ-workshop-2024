@@ -21,6 +21,9 @@ description: |
 <span style="color:#0a4f8f">School of Mathematical and Computational Sciences</span>.
 <br>
 <br>
+[<img src="../img/vu.png">](https://www.wgtn.ac.nz/)
+<br>
+<br>
 
 ### Silver
 

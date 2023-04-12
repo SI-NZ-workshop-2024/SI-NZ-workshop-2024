@@ -29,7 +29,6 @@ Registration closes on May 14 2023.
 If you need a formal invitation letter (for example, for visa purposes) please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
 <br>
 <br>
-
 ## SI^NZ workshop 2023 Student Symposium
 
 ### Call for Submissions
@@ -55,8 +54,17 @@ All submissions should use the official ACM Primary Article Template [https://ww
 
 ## Program
 
-COMING SOON! <br>
-
+**DAY 1 (May 22)** <br>
+<br>
+Talks and Keynotes (detailed program coming soon)
+<br>
+<br>
+**DAY 2 (May 23)** <br>
+<br>
+Social Events    
+City tour: from 10 AM  
+Lunch: 1PM - 4PM   
+<br>
 ## Keynotes
 
 ![](../img/mauro-pezze.jpeg)
