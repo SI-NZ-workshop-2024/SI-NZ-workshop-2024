@@ -52,18 +52,75 @@ Please submit your papers via EasyChair using the following link: [https://easyc
 All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 <br>
 
-## Program
+# Program
 
-**DAY 1 (May 22)** <br>
+## DAY 1 (May 22) Talks and Keynotes <br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Time</th>
+    <th class="tg-fymr">Event</th>
+    <th class="tg-1wig">Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-btxf">9:00 - 9:30</td>
+    <td class="tg-btxf">Registration</td>
+    <td class="tg-buh4" rowspan="7">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:30-10:00</td>
+    <td class="tg-0pky">Keynote 1: Prof. Mauro Pezzè, Future Challenges in Software Testing</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">10:00-10:30</td>
+    <td class="tg-btxf">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30-11:00</td>
+    <td class="tg-0pky">morning tea</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">11:00-12:30</td>
+    <td class="tg-btxf">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30-13:30</td>
+    <td class="tg-0pky">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">13:30-17:00</td>
+    <td class="tg-btxf">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:00-18:00</td>
+    <td class="tg-0pky">Cocktail reception</td>
+    <td class="tg-0lax">Engineering Foyer, Level 4<br>Faculty of Engineering (City Campus), University of Auckland<br>20 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+  </tr>
+</tbody>
+</table>
 <br>
-Talks and Keynotes (detailed program coming soon)
 <br>
+## DAY 2 (May 23) Social Events <br>
 <br>
-**DAY 2 (May 23)** <br>
-<br>
-Social Events    
-City tour: from 10 AM  
-Lunch: 1PM - 4PM   
+Social Events      
+City tour: from 10 AM   
+Lunch: 1PM - 4PM  (TBA)  
 <br>
 ## Keynotes
 
