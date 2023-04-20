@@ -67,7 +67,6 @@ All submissions should use the official ACM Primary Article Template [https://ww
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -81,42 +80,35 @@ All submissions should use the official ACM Primary Article Template [https://ww
   <tr>
     <td class="tg-btxf">9:00 - 9:30</td>
     <td class="tg-btxf">Registration</td>
-    <td class="tg-buh4">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-buh4" rowspan="8">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
   </tr>
   <tr>
     <td class="tg-0pky">9:30-10:00</td>
     <td class="tg-0pky">Keynote 1: Prof. Mauro Pezzè, Future Challenges in Software Testing</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-btxf">10:00-10:30</td>
     <td class="tg-btxf">TBA</td>
-    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30-11:00</td>
     <td class="tg-0pky">morning tea</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-btxf">11:00-13:00</td>
     <td class="tg-btxf">TBA</td>
-    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0pky">13:00-14:30</td>
     <td class="tg-0pky">lunch</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-buh4">14:30-15:30</td>
     <td class="tg-buh4">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
-    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0pky">15:30-16:30</td>
     <td class="tg-0pky">TBA</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-btxf">17:00-18:00</td>
