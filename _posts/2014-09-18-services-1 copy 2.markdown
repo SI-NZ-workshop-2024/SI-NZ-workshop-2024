@@ -57,10 +57,10 @@ All submissions should use the official ACM Primary Article Template [https://ww
 ## DAY 1 (May 22) Talks and Keynotes <br>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
@@ -81,36 +81,47 @@ All submissions should use the official ACM Primary Article Template [https://ww
   <tr>
     <td class="tg-btxf">9:00 - 9:30</td>
     <td class="tg-btxf">Registration</td>
-    <td class="tg-buh4" rowspan="7">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-buh4">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
   </tr>
   <tr>
     <td class="tg-0pky">9:30-10:00</td>
     <td class="tg-0pky">Keynote 1: Prof. Mauro Pezzè, Future Challenges in Software Testing</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-btxf">10:00-10:30</td>
     <td class="tg-btxf">TBA</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:30-11:00</td>
     <td class="tg-0pky">morning tea</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-btxf">11:00-12:30</td>
+    <td class="tg-btxf">11:00-13:00</td>
     <td class="tg-btxf">TBA</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12:30-13:30</td>
-    <td class="tg-0pky">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
+    <td class="tg-0pky">13:00-14:30</td>
+    <td class="tg-0pky">lunch</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-btxf">13:30-17:00</td>
-    <td class="tg-btxf">TBA</td>
+    <td class="tg-buh4">14:30-15:30</td>
+    <td class="tg-buh4">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
+    <td class="tg-buh4"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">17:00-18:00</td>
-    <td class="tg-0pky">Cocktail reception</td>
-    <td class="tg-0lax">Engineering Foyer, Level 4<br>Faculty of Engineering (City Campus), University of Auckland<br>20 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-0pky">15:30-16:30</td>
+    <td class="tg-0pky">TBA</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">17:00-18:00</td>
+    <td class="tg-btxf">Cocktail reception</td>
+    <td class="tg-buh4">Engineering Foyer, Level 4<br>Faculty of Engineering (City Campus), University of Auckland<br>20 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
   </tr>
 </tbody>
 </table>
