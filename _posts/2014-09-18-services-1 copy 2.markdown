@@ -20,7 +20,7 @@ NZD$ 150.00
 NZD$ 60.00 (student fee)
 <br>
 <br>
-Registration includes reception (drinks and canapes) and lunch on May 22 and social event on May 23 (TBA).
+Registration includes reception (drinks and canapes) and lunch on May 22 and social event on May 23 (Restaurant Bivacco, 115 Customs Street West, Auckland CBD).
 <br>
 <br>
 Registration closes on May 14 2023.
@@ -28,28 +28,6 @@ Registration closes on May 14 2023.
 <br>
 If you need a formal invitation letter (for example, for visa purposes) please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>
 <br>
-<br>
-## SI^NZ workshop 2023 Student Symposium
-
-### Call for Submissions
-
-The Student Symposium aims to provide a helpful and stimulating forum for current postgraduate students (PhD and Masters) to present and discuss their research proposals and early research results. Experienced members of the SI^NZ community will serve as advisers to provide constructive feedback on the research proposals. Participants must be current postgraduate research students, preferably those who have identified their research topic and progressed on initial results. However, other students are also welcome to attend.
-Students must submit a two-page, single-authored abstract (see the submission format below). The submission should include the following elements: the research problem and motivation, background and related work, approach and novelty, results (if any), and contributions. The review process is not anonymous - there is no need to anonymise the submission.
-A panel of experts will review the submissions and select the students to participate in the Students' Symposium. Students of accepted submissions will: 1) present their research to the panel (and other students) during the symposium and 2) participate in the poster session (posters will be displayed for the duration of the two-day workshop).
-The abstract will not be published.
-
-**Important dates**
-
-**Submission: April 15th, 2023**
-
-**Notifications: April 29th, 2023**
-
-**Submission**
-<br>
-Please submit your papers via EasyChair using the following link: [https://easychair.org/my/conference?conf=sinzworkshop2023](https://easychair.org/my/conference?conf=sinzworkshop2023)
-<br>
-<br>
-All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 <br>
 
 # Program
@@ -80,35 +58,47 @@ All submissions should use the official ACM Primary Article Template [https://ww
   <tr>
     <td class="tg-btxf">9:00 - 9:30</td>
     <td class="tg-btxf">Registration</td>
-    <td class="tg-buh4" rowspan="8">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-buh4" rowspan="11">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">9:30-09:35</td>
+    <td class="tg-0pky">Opening</td>
   </tr>
   <tr>
-    <td class="tg-0pky">9:30-10:00</td>
+    <td class="tg-0pky">9:35-10:35</td>
     <td class="tg-0pky">Keynote 1: Prof. Mauro Pezzè, Future Challenges in Software Testing</td>
   </tr>
   <tr>
-    <td class="tg-btxf">10:00-10:30</td>
-    <td class="tg-btxf">TBA</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10:30-11:00</td>
+    <td class="tg-0pky">10:35-11:00</td>
     <td class="tg-0pky">morning tea</td>
   </tr>
   <tr>
-    <td class="tg-btxf">11:00-13:00</td>
-    <td class="tg-btxf">TBA</td>
+    <td class="tg-btxf">11:00-11:30</td>
+    <td class="tg-btxf">Presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">11:30-12:00</td>
+    <td class="tg-btxf">Presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12:00-12:30</td>
+    <td class="tg-btxf">Presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">12:30-13:00</td>
+    <td class="tg-btxf">Presentation</td>
   </tr>
   <tr>
     <td class="tg-0pky">13:00-14:30</td>
-    <td class="tg-0pky">lunch</td>
+    <td class="tg-0pky">Lunch</td>
   </tr>
   <tr>
     <td class="tg-buh4">14:30-15:30</td>
     <td class="tg-buh4">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
   </tr>
   <tr>
-    <td class="tg-0pky">15:30-16:30</td>
-    <td class="tg-0pky">TBA</td>
+    <td class="tg-0pky">15:30-16:45</td>
+    <td class="tg-0pky">Panel Discussion</td>
   </tr>
   <tr>
     <td class="tg-btxf">17:00-18:00</td>
@@ -117,14 +107,83 @@ All submissions should use the official ACM Primary Article Template [https://ww
   </tr>
 </tbody>
 </table>
+
 <br>
 <br>
-## DAY 2 (May 23) Social Events <br>
+
+## DAY 2 (May 23) Student Symposium and Social Events <br>
+
 <br>
 Social Events      
-City tour: from 10 AM   
-Lunch: 1PM - 4PM  (TBA)  
+City tour: from 10 AM  
+Lunch: 1PM - 4PM  (Lunch @ Bivacco (115 Customs Street West, Auckland CBD))  
 <br>
+<br>
+
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Time</th>
+    <th class="tg-fymr">Event</th>
+    <th class="tg-1wig">Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-btxf">10:00-10:05</td>
+    <td class="tg-btxf">Welcoming and Opening - Amjed Tahir</td>
+    <td class="tg-buh4" rowspan="8">Room: University of Auckland, Building 405 (5 Grafton Road), 6th floor, Room 662, Auckland 1010, NZ</td>
+    </tr>>
+  <tr>
+    <td class="tg-0pky">10:05-10:30</td>
+    <td class="tg-0pky">Keynote by Matthias Galster</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30-10:50</td>
+    <td class="tg-0pky">Quantifying Veracity Requirements Technical Debt in the Context of New Zealand's Organic Products Supply Chain - Judith Perera</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">10:50-11:10</td>
+    <td class="tg-btxf">Understanding User Feedback in Software Forums for Requirements Elicitation - Hechen Wang</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">11:10-11:20</td>
+    <td class="tg-btxf">Break</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">11:20-11:40</td>
+    <td class="tg-btxf">Identifying and Mitigating Flaky Tests in JavaScript - Negar Hashemi</td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">11:40-12:00</td>
+    <td class="tg-btxf">Breaking Changes and its Effect on Client Projects - Dhanushka Jayasuriya</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:00-12:30</td>
+    <td class="tg-0pky">Open Discussion and Q&A with the Panel</td>
+  </tr>
+  <tr>
+    <td class="tg-buh4">13:00-16:00</td>
+    <td class="tg-buh4">Lunch </td>
+    <td class="tg-buh4"> Bivacco (115 Customs Street West, Auckland CBD)</td>
+  </tr>
+</tbody>
+</table>
+<br>
+<br>
+
 ## Keynotes
 
 ![](../img/mauro-pezze.jpeg)
@@ -151,3 +210,26 @@ In this talk, I will discuss the challenges of testing future software systems, 
 
 **Bio:** Dr. Panos Patros, CPEng is an expert in performance engineering and a software engineer with two decades of experience in both academia and industry. He is currently a Principal Engineer with Raygun Performance Monitoring in New Zealand and an Adjunct Professor in Computer Science with the University of New Brunswick in Canada. At Raygun, Panos leads the providers/profilers/tracers team and prototypes novel performance tools and methods to expand the company's range.
 Dr. Patros earned his PhD in Computer Science from the University of New Brunswick, where he conducted research and development on performance engineering in language runtimes, platform clouds and embedded systems. His work has been widely published in peer-reviewed academic papers, with over 50 publications to his name. Panos has also authored three software patents with IBM. His contributions to the field have been recognized with numerous awards and honors, including IBM Project of the Year in 2016.
+
+# SI^NZ workshop 2023 Student Symposium
+
+### Call for Submissions
+
+The Student Symposium aims to provide a helpful and stimulating forum for current postgraduate students (PhD and Masters) to present and discuss their research proposals and early research results. Experienced members of the SI^NZ community will serve as advisers to provide constructive feedback on the research proposals. Participants must be current postgraduate research students, preferably those who have identified their research topic and progressed on initial results. However, other students are also welcome to attend.
+Students must submit a two-page, single-authored abstract (see the submission format below). The submission should include the following elements: the research problem and motivation, background and related work, approach and novelty, results (if any), and contributions. The review process is not anonymous - there is no need to anonymise the submission.
+A panel of experts will review the submissions and select the students to participate in the Students' Symposium. Students of accepted submissions will: 1) present their research to the panel (and other students) during the symposium and 2) participate in the poster session (posters will be displayed for the duration of the two-day workshop).
+The abstract will not be published.
+
+**Important dates**
+
+**Submission: April 15th, 2023**
+
+**Notifications: April 29th, 2023**
+
+**Submission**
+<br>
+Please submit your papers via EasyChair using the following link: [https://easychair.org/my/conference?conf=sinzworkshop2023](https://easychair.org/my/conference?conf=sinzworkshop2023)
+<br>
+<br>
+All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
+<br>
