@@ -6,7 +6,7 @@ title: Sponsors
 description: |
 ---
 
-### Platinum
+<!--### Platinum
 
 [<img src="../img/uoa.png">](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
 <br>
@@ -27,4 +27,6 @@ description: |
 
 ### Silver
 
-[<img src="../img/raygun.png">](https://raygun.com/)
+[<img src="../img/raygun.png">](https://raygun.com/)-->
+
+Coming soon!
