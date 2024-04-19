@@ -27,6 +27,6 @@ description: |
 
 ### Silver-->
 
-<!--[<img src="../img/raygun.png">](https://raygun.com/)-->
+<!--[<img src="../img/raygun.png">]()-->
 
 Coming soon!
