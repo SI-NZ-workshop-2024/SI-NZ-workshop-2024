@@ -4,6 +4,7 @@ category: Services
 title: Program and Registration<br>
 description: |
 ---
+Workshop details to be announced!
 
 <!--The registration is opened to everyone.
 <br>
@@ -31,9 +32,8 @@ Registration details coming soon.
 <br>
 <br>
 
-# Program
+<!--# Program-->
 
-To be announced
 <!--## DAY 1 (May 22) Talks and Keynotes <br>
 
 <style type="text/css">
@@ -186,7 +186,7 @@ Lunch: 1PM - 4PM  (Lunch @ Bivacco (115 Customs Street West, Auckland CBD))
 <br>
 <br>
 
-## Keynotes
+<!--## Keynotes-->
 
 <!--![](../img/mauro-pezze.jpeg)
 
@@ -212,11 +212,8 @@ In this talk, I will discuss the challenges of testing future software systems, 
 
 **Bio:** Dr. Panos Patros, CPEng is an expert in performance engineering and a software engineer with two decades of experience in both academia and industry. He is currently a Principal Engineer with Raygun Performance Monitoring in New Zealand and an Adjunct Professor in Computer Science with the University of New Brunswick in Canada. At Raygun, Panos leads the providers/profilers/tracers team and prototypes novel performance tools and methods to expand the company's range.
 Dr. Patros earned his PhD in Computer Science from the University of New Brunswick, where he conducted research and development on performance engineering in language runtimes, platform clouds and embedded systems. His work has been widely published in peer-reviewed academic papers, with over 50 publications to his name. Panos has also authored three software patents with IBM. His contributions to the field have been recognized with numerous awards and honors, including IBM Project of the Year in 2016.-->
-To be announced
 
-# SI^NZ workshop 2023 Student Symposium
-
-To be announced
+<!--# SI^NZ workshop 2023 Student Symposium-->
 
 <!--### Call for Submissions
 
