@@ -21,10 +21,6 @@ description: |
 <br>
 <br>
 
-![avatar](https://images.weserv.nl/?url=https://conf.researchr.org/getProfileImage/amjedtahir/8de3cc3f-2d29-425d-b997-399d3e03747d/small.jpg?1619089774000?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
-[**Amjed Tahir**](https://sites.google.com/site/amjedtahir) <br> Massey University, Palmerston North, New Zealand
-<br>
-<br>
+![avatar](https://images.weserv.nl/?url=https://profiles.waikato.ac.nz/jemma.konig/photo?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
+[**Jemma König**](https://profiles.waikato.ac.nz/jemma.konig) <br> University of Waikato, Hamilton, New Zealand
 
-![avatar](https://images.weserv.nl/?url=https://people.wgtn.ac.nz/jens.dietrich/photo?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
-[**Jens Dietrich**](https://people.wgtn.ac.nz/jens.dietrich/professional) <br> Victoria University of Wellington, Wellington, New Zealand
