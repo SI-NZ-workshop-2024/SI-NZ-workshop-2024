@@ -5,6 +5,7 @@ category: Services
 title: Sponsors
 description: |
 ---
+[<img src="../img/uow.png">](https://www.waikato.ac.nz/about/faculties-schools/cms/)
 
 <!--### Platinum
 
@@ -28,5 +29,3 @@ description: |
 ### Silver-->
 
 <!--[<img src="../img/raygun.png">]()-->
-
-Coming soon!
