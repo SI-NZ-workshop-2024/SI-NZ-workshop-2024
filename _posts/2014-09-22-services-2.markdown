@@ -11,7 +11,7 @@ description: |
 <br>
 <br>
 
-![avatar](https://profiles.waikato.ac.nz/jessica.turner/photo)<br>
+![avatar](https://profiles.waikato.ac.nz/jessica.turner/photo?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>
 [**Jessica Turner**](https://profiles.waikato.ac.nz/jessica.turner) <br> University of Waikato, Tauranga, New Zealand
 <br>
 <br>
