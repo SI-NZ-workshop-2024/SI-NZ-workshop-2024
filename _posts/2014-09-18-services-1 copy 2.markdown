@@ -231,9 +231,9 @@ The abstract will not be published.
 
 **Notifications: April 29th, 2023**
 
-**Submission**
+**Submission**-->
 <br>
-Please submit your papers via EasyChair using the following link: [https://easychair.org/my/conference?conf=sinzworkshop2023](https://easychair.org/my/conference?conf=sinzworkshop2023)-->
+<!--Please submit your papers via EasyChair using the following link: [https://easychair.org/my/conference?conf=sinzworkshop2023](https://easychair.org/my/conference?conf=sinzworkshop2023)-->
 <br>
 <br>
 <!--All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).-->
