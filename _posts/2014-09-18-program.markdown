@@ -4,7 +4,6 @@ category: Services
 title: Program and Registration<br>
 description: |
 ---
-Workshop details to be announced!
 
 <!--The registration is opened to everyone.
 <br>
@@ -30,159 +29,65 @@ Registration closes on May 14 2023.
 If you need a formal invitation letter (for example, for visa purposes) please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>->
 Registration details coming soon.
 <br>
-<br>
+<br>-->
 
-<!--# Program-->
+# Program
 
-<!--## DAY 1 (May 22) Talks and Keynotes <br>
-
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-fymr">Time</th>
     <th class="tg-fymr">Event</th>
-    <th class="tg-1wig">Location</th>
+    <th class="tg-fymr">Location</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-btxf">9:00 - 9:30</td>
+    <td class="tg-btxf">9:30 - 10:00</td>
     <td class="tg-btxf">Registration</td>
-    <td class="tg-buh4" rowspan="11">Room: Conference Centre / 423-340<br>Conference Centre Building (City Campus), University of Auckland<br>22 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-btxf" rowspan="5">Te Manawaroa (TCBD.1.07)</td>
   </tr>
     <tr>
-    <td class="tg-0pky">9:30-09:35</td>
+    <td class="tg-0pky">10:00-10:15</td>
     <td class="tg-0pky">Opening</td>
   </tr>
   <tr>
-    <td class="tg-0pky">9:35-10:35</td>
-    <td class="tg-0pky">Keynote 1: Prof. Mauro Pezzè, Future Challenges in Software Testing</td>
+    <td class="tg-0pky">10:15-11:15</td>
+    <td class="tg-0pky">Keynote</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10:35-11:00</td>
-    <td class="tg-0pky">morning tea</td>
+    <td class="tg-0pky">11:15-11:30</td>
+    <td class="tg-0pky">Morning Tea</td>
   </tr>
   <tr>
-    <td class="tg-btxf">11:00-11:30</td>
-    <td class="tg-btxf">Presentation</td>
+    <td class="tg-btxf">11:30-12:30</td>
+    <td class="tg-btxf">Session #1</td>
   </tr>
   <tr>
-    <td class="tg-btxf">11:30-12:00</td>
-    <td class="tg-btxf">Presentation</td>
+    <td class="tg-btxf">12:30-13:45</td>
+    <td class="tg-btxf">Lunch</td>
+    <td class="tg-btxf"></td>
   </tr>
   <tr>
-    <td class="tg-btxf">12:00-12:30</td>
-    <td class="tg-btxf">Presentation</td>
+    <td class="tg-btxf">13:45-14:45</td>
+    <td class="tg-btxf">Session #2</td>
+    <td class="tg-btxf" rowspan="4">Te Manawaroa (TCBD.1.07)</td>
   </tr>
   <tr>
-    <td class="tg-btxf">12:30-13:00</td>
-    <td class="tg-btxf">Presentation</td>
+    <td class="tg-btxf">14:45-15:00</td>
+    <td class="tg-btxf">Afternoon Tea</td>
   </tr>
   <tr>
-    <td class="tg-0pky">13:00-14:30</td>
-    <td class="tg-0pky">Lunch</td>
+    <td class="tg-0pky">15:00-16:00</td>
+    <td class="tg-0pky">Cultural Campus Tour</td>
   </tr>
   <tr>
-    <td class="tg-buh4">14:30-15:30</td>
-    <td class="tg-buh4">Keynote 2: Dr. Panos Patros, The Raygun Approach to AI-Enabled Software Performance Engineering</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">15:30-16:45</td>
-    <td class="tg-0pky">Panel Discussion</td>
-  </tr>
-  <tr>
-    <td class="tg-btxf">17:00-18:00</td>
-    <td class="tg-btxf">Cocktail reception</td>
-    <td class="tg-buh4">Engineering Foyer, Level 4<br>Faculty of Engineering (City Campus), University of Auckland<br>20 Symonds Street, Auckland CBD, Auckland 1010, NZ</td>
+    <td class="tg-buh4">16:30-18:00</td>
+    <td class="tg-buh4">Session #3 & Cocktails</td>
   </tr>
 </tbody>
 </table>
 
-<br>
-<br>
-
-## DAY 2 (May 23) Student Symposium and Social Events <br>
-
-<br>
-Social Events      
-City tour: from 10 AM  
-Lunch: 1PM - 4PM  (Lunch @ Bivacco (115 Customs Street West, Auckland CBD))  
-<br>
-<br>
-
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-fymr">Time</th>
-    <th class="tg-fymr">Event</th>
-    <th class="tg-1wig">Location</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-btxf">10:00-10:05</td>
-    <td class="tg-btxf">Welcoming and Opening - Amjed Tahir</td>
-    <td class="tg-buh4" rowspan="8">Room: University of Auckland, Building 405 (5 Grafton Road), 6th floor, Room 662, Auckland 1010, NZ</td>
-    </tr>>
-  <tr>
-    <td class="tg-0pky">10:05-10:30</td>
-    <td class="tg-0pky">Keynote by Matthias Galster</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10:30-10:50</td>
-    <td class="tg-0pky">Quantifying Veracity Requirements Technical Debt in the Context of New Zealand's Organic Products Supply Chain - Judith Perera</td>
-  </tr>
-  <tr>
-    <td class="tg-btxf">10:50-11:10</td>
-    <td class="tg-btxf">Understanding User Feedback in Software Forums for Requirements Elicitation - Hechen Wang</td>
-  </tr>
-  <tr>
-    <td class="tg-btxf">11:10-11:20</td>
-    <td class="tg-btxf">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-btxf">11:20-11:40</td>
-    <td class="tg-btxf">Identifying and Mitigating Flaky Tests in JavaScript - Negar Hashemi</td>
-  </tr>
-  <tr>
-    <td class="tg-btxf">11:40-12:00</td>
-    <td class="tg-btxf">Breaking Changes and its Effect on Client Projects - Dhanushka Jayasuriya</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12:00-12:30</td>
-    <td class="tg-0pky">Open Discussion and Q&A with the Panel</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">13:00-16:00</td>
-    <td class="tg-buh4">Lunch </td>
-    <td class="tg-buh4"> Bivacco (115 Customs Street West, Auckland CBD)</td>
-  </tr>
-</tbody>
-</table>-->
 <br>
 <br>
 
