@@ -1,4 +1,4 @@
-![image](https://github.com/SI-NZ-workshop-2024/SI-NZ-workshop-2024/assets/167483368/da0bb9df-5610-4eed-a9c6-b2ae9a52d820)---
+---
 layout: default
 category: Location
 title: Location<br>
