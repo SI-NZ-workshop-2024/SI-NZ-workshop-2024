@@ -46,7 +46,10 @@ Registration details coming soon.
   <tr>
     <td class="tg-btxf">9:30 - 10:00</td>
     <td class="tg-btxf">Registration</td>
-    <td class="tg-btxf" rowspan="10">Te Manawaroa (TCBD.1.07)</td>
+    <td class="tg-btxf" rowspan="10">Room: Te Manawaroa (TCBD.1.07)<br>
+      Tauranga Campus, University of Waikato<br>
+      101-121 Durham Street, Tauranga 3110, NZ
+    </td>
   </tr>
     <tr>
     <td class="tg-0pky">10:00-10:15</td>
