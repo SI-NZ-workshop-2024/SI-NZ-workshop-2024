@@ -21,7 +21,7 @@ description: |
 <br>
 <br>
 
-*Student Symposium Chairs*
+*Student Symposium Chairs*<br>
 <!--![avatar](https://images.weserv.nl/?url=..\img\anon.png?v=1&h=100&w=100&fit=cover&mask=circle&maxage=7d)<br>-->
 [**Dhanushka Jayasuriya**](https://profiles.auckland.ac.nz/djay392) <br> University of Auckland, Auckland, New Zealand
 
