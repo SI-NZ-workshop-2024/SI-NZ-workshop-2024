@@ -88,8 +88,8 @@ Registration details coming soon.
     <td class="tg-btxf">Session #3</td>
   </tr>
   <tr>
-    <td class="tg-buh4">17:00-18:00</td>
-    <td class="tg-buh4">Reception</td>
+    <td class="tg-0pky">17:00-18:00</td>
+    <td class="tg-0pky">Reception</td>
   </tr>
 </tbody>
 </table>
