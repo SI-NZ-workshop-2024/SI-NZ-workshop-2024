@@ -128,25 +128,22 @@ Dr. Patros earned his PhD in Computer Science from the University of New Brunswi
 
 ### Call for Submissions
 
-The Student Symposium aims to provide a helpful and stimulating forum for current postgraduate students (PhD and Masters) to present and discuss their research proposals and early research results. Experienced members of the SI^NZ community will serve as advisers to provide constructive feedback on the research proposals. Participants must be current postgraduate research students, preferably those who have identified their research topic and progressed on initial results. However, other students are also welcome to attend. Please specify your expression of interest in attending the symposium by filling out the following form: [Expression of Interest Form](https://forms.gle/fZpkBuH2c1Nd2EXb8)
+The Student Symposium aims to provide a helpful and stimulating forum for current postgraduate students (PhD and Masters) to present and discuss their research proposals and early research results. Experienced members of the SI^NZ community will serve as advisers to provide constructive feedback on the research proposals. Participants must be current postgraduate research students, preferably those who have identified their research topic and progressed on initial results. However, other students are also welcome to attend.
 
-Further submission details will be available shortly. We will contact those who have indicated their interest via email when the call opens. 
+Students must submit a two-page, single-authored abstract (see the submission format below). The submission should include the following elements: the research problem and motivation, background and related work, approach and novelty, results (if any), and contributions. The review process is not anonymous - there is no need to anonymise the submission.
 
-
-<!--Students must submit a two-page, single-authored abstract (see the submission format below). The submission should include the following elements: the research problem and motivation, background and related work, approach and novelty, results (if any), and contributions. The review process is not anonymous - there is no need to anonymise the submission.
-A panel of experts will review the submissions and select the students to participate in the Students' Symposium. Students of accepted submissions will: 1) present their research to the panel (and other students) during the symposium and 2) participate in the poster session (posters will be displayed for the duration of the two-day workshop).
-The abstract will not be published.
+A panel of experts will review the submissions and select the students to participate in the Students' Symposium. Students of accepted submissions will present their research to the panel (and other students) during the symposium. The abstract will not be published.
 
 **Important dates**
 
-**Submission: April 15th, 2023**
+**Submission: May 20th, 2024**
 
-**Notifications: April 29th, 2023**
+**Notifications: May 31st, 2024**
 
-**Submission**-->
+**Submission**
 <br>
-<!--Please submit your papers via EasyChair using the following link: [https://easychair.org/my/conference?conf=sinzworkshop2023](https://easychair.org/my/conference?conf=sinzworkshop2023)-->
+Please submit your papers via EasyChair using the following link: [https://easychair.org/conferences/?conf=sinzstudentsymposium0](https://easychair.org/conferences/?conf=sinzstudentsymposium0)
 <br>
 <br>
-<!--All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).-->
+All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 <br>
