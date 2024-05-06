@@ -146,4 +146,11 @@ Please submit your papers via EasyChair using the following link: [https://easyc
 <br>
 <br>
 All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
-<br>
+
+# Code of Conduct
+
+Software Innovation New Zealand is committed to providing a welcoming space for all attendees. A primary goal of our workshops and seminars is to promote the open exchange of ideas and the freedom of thought and expression among software engineering researchers in Aotearoa. These require an environment that recognizes the inherent worth of every person and group; fosters dignity, understanding, and mutual respect; and embraces diversity.
+
+For these reasons, Software Innovation New Zealand is dedicated to providing an inclusive harassment-free experience for participants at our events and in official communications channels, including social media. We want every participant to feel welcome, included, respected, and safe. There is no tolerance for unwelcome or hostile behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at our workshop and events.
+
+Please see the following for the workshop's full code of conduct policy: [Code of Conduct.pdf](https://si-nz-workshop-2024.github.io/SI-NZ-workshop-2024/SINZ_Code_of_Conduct.pdf) ⬇️
