@@ -140,6 +140,8 @@ Please submit your papers via EasyChair using the following link: [https://easyc
 <br>
 All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 
+Students will receive their complimentary registration as part of submission notifications via email. 
+
 # Code of Conduct
 
 Software Innovation New Zealand is committed to providing a welcoming space for all attendees. A primary goal of our workshops and seminars is to promote the open exchange of ideas and the freedom of thought and expression among software engineering researchers in Aotearoa. These require an environment that recognizes the inherent worth of every person and group; fosters dignity, understanding, and mutual respect; and embraces diversity.
