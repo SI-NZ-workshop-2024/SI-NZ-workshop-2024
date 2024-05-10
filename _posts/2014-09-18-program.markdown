@@ -5,16 +5,13 @@ title: Program and Registration<br>
 description: |
 ---
 
-The registration is opened to everyone.
-<br>
-<br>
 **Registration is now open!**: <br> <br> <a href="https://www.eventbrite.com/e/the-2nd-sinz-workshop-on-software-engineering-tickets-903052754097?aff=oddtdtcreator" class="btn btn-warning btn-lg">REGISTER</a>
 <br>
 <br>
 **Price:**
 <br>
 <br>
-NZD$ 50.00
+NZD $50.00
 <br>
 <br>
 Student registrations are free for those attending the symposium (details below).
