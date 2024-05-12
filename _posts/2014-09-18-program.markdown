@@ -140,7 +140,7 @@ Please submit your papers via EasyChair using the following link: [https://easyc
 <br>
 All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 
-Students will receive their complimentary registration via email after notifications and confirmation of attendance. 
+Students can register for free through the eventbrite page, select the "Student Symposium" option and check out. 
 
 # Code of Conduct
 
