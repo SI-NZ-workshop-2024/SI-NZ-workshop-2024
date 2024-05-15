@@ -20,10 +20,6 @@ Student registrations are free for those attending the symposium (details below)
 Registration closes on June 3 2024.
 <br>
 <br>
-<!--If you need a formal invitation letter (for example, for visa purposes) please email Valerio Terragni at: <a href="mailto:v.terragni@auckland.ac.nz">v.terragni@auckland.ac.nz</a>->
-Registration details coming soon.
-<br>
-<br>-->
 
 # Program
 <style type="text/css"> .tg {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;} .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top} .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top} .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top} .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top} </style>
@@ -50,7 +46,7 @@ Registration details coming soon.
   </tr>
   <tr>
     <td class="tg-0pky">10:15-11:15</td>
-    <td class="tg-0pky">Keynote</td>
+    <td class="tg-0pky">Keynote: Assoc. Prof. Judy Bowen, From There to Here (and back again)</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:15-11:30</td>
@@ -90,32 +86,18 @@ Registration details coming soon.
 <br>
 <br>
 
-<!--## Keynotes-->
+## Keynotes
 
-<!--![](../img/mauro-pezze.jpeg)
+![](../img/JB_HIghRes.jpg)
 
-[Prof. Mauro Pezzè](https://search.usi.ch/en/people/4fcdc3b7f6e5a58050ee5b3a2b530ad6/pezze-mauro), USI Università della Svizzera Italiana and Constructor institute in Schaffhausen (Switzerland)
+[Assoc. Prof. Judy Bowen](https://profiles.waikato.ac.nz/judy.bowen), University of Waikato, New Zealand
 
-**Title:** Future Challenges in Software Testing
+**Title:** From There to Here (and back again)
 
-**Abstract:** Software is dramatically changing. Current and future software systems rapidly evolve, adapt to new and emerging environment conditions, and behave autonomously. The fast growth of systems with AI and machine learning engines will spread across many domains, and be a common feature of most software systems. Classic testing cannot adequately address evolving, adapting, autonomous behavior of contemporary and future software systems. At the same time to recent extraordinary progresses in machine learning and natural language processing open enormous opportunities to define new testing approaches.
-<br>
-In this talk, I will discuss the challenges of testing future software systems, the opportunities of machine learning and natural language processing to define new testing approaches, and the role of testing in self-healing systems. I will discuss advantages, limitations, and benefits of combining classic with field testing in a seamlessly integrated context, I will present the state of the art in exploiting machine learning and natural language processing to test future software systems, and I will discuss the interplay of fully automated testing and self-healing approaches.
+**Abstract:** Software Engineering is a diverse field with researchers and practitioners often working in different sub-disciplines, however, they typically share common perceptions of the foundations of the discipline which they apply within their own contexts. My own research focusses on the design and development of  interactive and ubiquitous systems guided by relevant software engineering principles from HCI, formal methods and testing.
+In this talk I will describe what software engineering means in the context of my work, where I started from, where I’ve ended up and why the things I focus on matter in the wider context of software evolution.
 
-**Bio:** Mauro Pezzè is Professor of Software Engineering at USI Università della Svizzera Italiana and Constructor institute in Schaffhausen (Switzerland). He leads the joint USI-Constructor STAR, Software Testing and Analysis Research, laboratory. Dr. Pezzè serves as editor in chief of ACM Transactions on Software Engineering and Methodologies. He served as associate editor of IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering and Methodologies, and the journal on Software Testing, Verification and Reliability (STVR). He served as general and program chair of the ACM International Symposium on Software Testing and Analysis (ISSTA), and program co-chair of the International Conference on Software Engineering (ICSE). He is the co-author of over 180 papers published in international journals and in the proceedings of international conferences, and of the influential book, Software Testing and Analysis, Process, Principles and Techniques.
-
----
-
-![](../img/panos.jpeg)
-
-[Panos Patros, PhD](https://twitter.com/PanosPatros), Principal Engineer, [Raygun Performance Monitoring](https://raygun.com/)
-
-**Title:** The Raygun Approach to AI-Enabled Software Performance Engineering
-
-**Abstract:** What does the future hold for AI-assisted and AI-enabled software performance engineering? Find out from Raygun, an NZ-grown company competing globally in the software performance space! This talk will emphasize the importance of performance for the end-user experience and showcase tools like Crash Reporting, Real User Monitoring, and Application Performance Monitoring. Hear how Raygun has innovated to serve huge clients on a global scale, including handling the performance monitoring of HBO's Game of Thrones finale. Inspired by recent innovations in AI language models, learn about Raygun's emerging approach to self-evolving software engineering and how our new API can be integrated with other tools, including AI. This discussion aims to spark constructive debate on what should be included or expanded upon in computer science and software engineering degrees, while seeding R&D directions and collaborations in the performance engineering space.
-
-**Bio:** Dr. Panos Patros, CPEng is an expert in performance engineering and a software engineer with two decades of experience in both academia and industry. He is currently a Principal Engineer with Raygun Performance Monitoring in New Zealand and an Adjunct Professor in Computer Science with the University of New Brunswick in Canada. At Raygun, Panos leads the providers/profilers/tracers team and prototypes novel performance tools and methods to expand the company's range.
-Dr. Patros earned his PhD in Computer Science from the University of New Brunswick, where he conducted research and development on performance engineering in language runtimes, platform clouds and embedded systems. His work has been widely published in peer-reviewed academic papers, with over 50 publications to his name. Panos has also authored three software patents with IBM. His contributions to the field have been recognized with numerous awards and honors, including IBM Project of the Year in 2016.-->
+**Bio:** Judy Bowen is an Associate Professor in Software Engineering and Computer Science at the University of Waikato. Originally from South Wales, Judy moved to New Zealand in 1999 and completed her MSc and PhD at the University of Waikato, both in the area of the use of formal methods for interactive system design. Her research spans the disciplines of software engineering and human-computer interaction and focusses on interactive system design, model-driven development and testing. Recently her research has focussed more on  the impacts of ubiquitous technology, wearable technology and  IoT solutions on end-users.
 
 # SI^NZ workshop 2024 Student Symposium
 
