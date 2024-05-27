@@ -54,7 +54,7 @@ Registration closes on June 3 2024.
   </tr>
   <tr>
     <td class="tg-btxf">11:30-12:30</td>
-    <td class="tg-btxf">Session #1: Research Funding in NZ</td>
+    <td class="tg-btxf">Keynote: Prof. John Grundy, Research Funding in NZ</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:30-13:45</td>
@@ -66,7 +66,10 @@ Registration closes on June 3 2024.
   </tr>
   <tr>
     <td class="tg-btxf">14:45-15:45</td>
-    <td class="tg-btxf">Session #2</td>
+    <td class="tg-btxf">Session #2<br>
+    Assoc. Prof. Kelly Blincoe, <a href="https://engclusion.nz/">ENGclusion</a><br>
+    Soraya Hebert, <a href="https://stemwana.nz/">STEM Wana</a><br>
+    Dr. Jessica Turner, Diabetes Technologies</td>
   </tr>
     <tr>
     <td class="tg-0pky">15:45-16:00</td>
@@ -86,7 +89,7 @@ Registration closes on June 3 2024.
 <br>
 <br>
 
-## Keynote
+## Keynotes
 
 ![](https://si-nz-workshop-2024.github.io/SI-NZ-workshop-2024/img/JB_HIghRes.jpg)
 
@@ -98,6 +101,16 @@ Registration closes on June 3 2024.
 In this talk I will describe what software engineering means in the context of my work, where I started from, where I’ve ended up and why the things I focus on matter in the wider context of software evolution.
 
 **Bio:** Judy Bowen is an Associate Professor in Software Engineering and Computer Science at the University of Waikato. Originally from South Wales, Judy moved to New Zealand in 1999 and completed her MSc and PhD at the University of Waikato, both in the area of the use of formal methods for interactive system design. Her research spans the disciplines of software engineering and human-computer interaction and focusses on interactive system design, model-driven development and testing. Recently her research has focussed more on  the impacts of ubiquitous technology, wearable technology and  IoT solutions on end-users.
+
+--
+
+![](https://research.monash.edu/files-asset/230888139/john_grundy_head_4_small.jpg?w=320&f=webp)
+
+[Prof. John Grundy](https://research.monash.edu/en/persons/john-grundy), Monash University, Australia
+
+**Title:** Research Funding in NZ
+
+**Bio:** John Grundy is Australian Laureate Fellow and Professor of Software Engineering in the Faculty of Information Technology, Monash University, Melbourne, Australia.  His research interests include automated software engineering, human-centric software engineering, software performance and security engineering, and computing education.  His teaching focuses on final year team industry capstone and research projects. He is Fellow of Engineers Australia and Fellow of Automated Software Engineering, Senior Member of ACM and IEEE, Chartered Engineer and Engineering Executive. He has received the ACM SIGSOFT Distinguished Service Award, CORE Distinguished Service Award and IEEE TCSE Distinguished Educator Award.
 
 # SI^NZ workshop 2024 Student Symposium
 
