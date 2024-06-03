@@ -77,7 +77,8 @@ Registration closes on June 3 2024.
   </tr>
   <tr>
     <td class="tg-btxf">16:00-17:00</td>
-    <td class="tg-btxf">Session #3</td>
+    <td class="tg-btxf">Session #3<br>
+    Dr. Sapna Jaidka, Modelling and Testing for Better Outcomes</td>
   </tr>
   <tr>
     <td class="tg-0pky">17:00-18:00</td>
