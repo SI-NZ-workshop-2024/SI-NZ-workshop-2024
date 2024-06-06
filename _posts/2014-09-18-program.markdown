@@ -15,11 +15,11 @@ NZD $50.00
 <br>
 <br>
 Student registrations are free for those attending the symposium (details below).
-<br>
+<!--<br>
 <br>
 Registration closes on June 3 2024.
 <br>
-<br>
+<br>-->
 
 # Program
 <style type="text/css"> .tg {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;} .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top} .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top} .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top} .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top} </style>
@@ -69,7 +69,8 @@ Registration closes on June 3 2024.
     <td class="tg-btxf">Session #2<br>
     Assoc. Prof. Kelly Blincoe, <a href="https://engclusion.nz/">ENGclusion</a><br>
     Soraya Hebert, <a href="https://stemwana.nz/">STEM Wana</a><br>
-    Dr. Jessica Turner, Diabetes Technologies</td>
+    Jay Tihema, <a href="https://www.toikairawa.co.nz/">Toi Kai Rawa</a>
+    </td>
   </tr>
     <tr>
     <td class="tg-0pky">15:45-16:00</td>
@@ -78,7 +79,9 @@ Registration closes on June 3 2024.
   <tr>
     <td class="tg-btxf">16:00-17:00</td>
     <td class="tg-btxf">Session #3<br>
-    Dr. Sapna Jaidka, Modelling and Testing for Better Outcomes</td>
+    Dr. Sapna Jaidka, Modelling and Testing for Better Outcomes<br>
+    Dr. Jessica Turner, Diabetes Tech: Understanding User Perceptions<br>
+    Final Discussion + Wrap up</td>
   </tr>
   <tr>
     <td class="tg-0pky">17:00-18:00</td>
