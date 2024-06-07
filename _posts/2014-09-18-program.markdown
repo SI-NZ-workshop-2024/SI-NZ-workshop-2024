@@ -80,7 +80,7 @@ Registration closes on June 3 2024.
     <td class="tg-btxf">16:00-17:00</td>
     <td class="tg-btxf">Session #3<br>
     Dr. Sapna Jaidka, Modelling and Testing for Better Outcomes<br>
-    Dr. Jessica Turner, Diabetes Tech: Understanding User Perceptions<br>
+    Dr. Alvin Yeo, Community Engagement<br>
     Final Discussion + Wrap up</td>
   </tr>
   <tr>
@@ -140,6 +140,51 @@ Please submit your papers via EasyChair using the following link: [https://easyc
 All submissions should use the official ACM Primary Article Template [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template).
 
 Students can register for free through the eventbrite page, select the "Student Symposium" option and check out. 
+
+## Schedule
+
+Students will be able to attend the main session with the symposium taking place during Sessions 2 and 3 of the program. The student symposium schedule is as below:
+
+<style type="text/css"> .tg {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;} .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top} .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top} .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top} .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top} </style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Time</th>
+    <th class="tg-fymr">Event</th>
+    <th class="tg-fymr">Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-btxf">14:45-15:45</td>
+    <td class="tg-btxf">Session #2<br>
+    Negar Hashemi, Identifying and Mitigating Flaky Tests in JavaScript<br>
+    Hongming Zhang, Model and Tool Selection for Enhancing IoT platform Interoperability<br>
+    Sanaz Zamani, Improving Emotional Well-being and Managing Depression through IoT Technologies<br>
+    </td>
+    <td class="tg-btxf">Room: TCBD.2.12<br>
+    </td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">15:45-16:00</td>
+    <td class="tg-0pky">Afternoon Tea</td>
+      </td>
+    <td class="tg-btxf">Room: TCBD.1.07<br>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-btxf">16:00-17:00</td>
+    <td class="tg-btxf">Session #3<br>
+      Faith Mathuranayagam Culas, Advancing Cognitive Inclusivity in Software Engineering Tools and Practices<br>
+      Zane Hamilton, Scoring of the Landing Error Scoring System using Inertial Measurement Units<br>
+      Final Discussion + Wrap Up in Te Manawaroa
+    </td>
+    </td>
+    <td class="tg-btxf">Room: TCBD.2.12<br>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 # Code of Conduct
 
