@@ -179,7 +179,6 @@ Students will be able to attend the main session with the symposium taking place
       Zane Hamilton, Scoring of the Landing Error Scoring System using Inertial Measurement Units<br>
       Final Discussion + Wrap Up in Te Manawaroa
     </td>
-    </td>
     <td class="tg-btxf">Room: TCBD.2.12<br>
     </td>
   </tr>
