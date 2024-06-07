@@ -168,7 +168,6 @@ Students will be able to attend the main session with the symposium taking place
     <tr>
     <td class="tg-0pky">15:45-16:00</td>
     <td class="tg-0pky">Afternoon Tea</td>
-      </td>
     <td class="tg-btxf">Room: TCBD.1.07<br>
     </td>
   </tr>
