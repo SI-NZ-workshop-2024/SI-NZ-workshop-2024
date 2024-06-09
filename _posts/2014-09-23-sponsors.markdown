@@ -7,6 +7,8 @@ description: |
 ---
 [<img src="{{site.baseurl}}/img/uow.png">](https://www.waikato.ac.nz/about/faculties-schools/cms/)
 
+[<img src="{{site.baseurl}}/img/veracity.png">](https://www.waikato.ac.nz/about/faculties-schools/cms/](https://veracity.wgtn.ac.nz/)
+
 <!--### Platinum
 
 [<img src="../img/uoa.png">](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
