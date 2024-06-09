@@ -7,7 +7,7 @@ description: |
 ---
 [<img src="{{site.baseurl}}/img/uow.png">](https://www.waikato.ac.nz/about/faculties-schools/cms/)
 
-[<img src="{{site.baseurl}}/img/veracity.png">](https://www.waikato.ac.nz/about/faculties-schools/cms/](https://veracity.wgtn.ac.nz/)
+[<img src="{{site.baseurl}}/img/veracity.png">](https://veracity.wgtn.ac.nz/)
 
 <!--### Platinum
 
